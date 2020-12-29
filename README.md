@@ -3,16 +3,22 @@
 
 ###Video
 
-![Project Video](https://github.com/DaniFTT/Tinder-Clone/blob/main/src/assets/videos/tinder-clone-exemplo.gif)
+![Project Video](https://github.com/DaniFTT/Tinder-Clone/blob/main/tinder-clone/src/assets/videos/tinder-clone-exemplo.gif)
+
+
+### Images:
+
+![Image project](https://github.com/DaniFTT/Tinder-Clone/blob/main/tinder-clone/src/assets/img/tinder-clone-img.jpg)
+![Image-2 project](https://github.com/DaniFTT/Tinder-Clone/blob/main/tinder-clone/src/assets/img/tinder-clone-img-1.jpg)
 
 
 
 ## Technologies used (M.E.R.N):
 
--ReactJs
--NodeJs
--Express
--MongoDC
+-ReactJs<br>
+-NodeJs<br>
+-Express<br>
+-MongoDC<br>
 
 
 
