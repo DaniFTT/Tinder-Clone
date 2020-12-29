@@ -1,7 +1,7 @@
 # Tinder-Clone
 ## Tinder clone using ReactJs, NodeJs, Express and mongoDB
 
-###Video
+### Video:
 
 ![Project Video](https://github.com/DaniFTT/Tinder-Clone/blob/main/tinder-clone/src/assets/videos/tinder-clone-exemplo.gif)
 
